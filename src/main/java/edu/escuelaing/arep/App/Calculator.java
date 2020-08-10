@@ -1,6 +1,6 @@
-package edu.escuelaing.arsw.App;
+package edu.escuelaing.arep.App;
 
-import edu.escuelaing.arsw.model.Reader;
+import edu.escuelaing.arep.model.Reader;
 import java.util.List;
 
 /**

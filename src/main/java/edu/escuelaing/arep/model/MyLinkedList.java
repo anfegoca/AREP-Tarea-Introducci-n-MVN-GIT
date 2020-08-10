@@ -1,4 +1,4 @@
-package edu.escuelaing.arsw.model;
+package edu.escuelaing.arep.model;
 
 
 

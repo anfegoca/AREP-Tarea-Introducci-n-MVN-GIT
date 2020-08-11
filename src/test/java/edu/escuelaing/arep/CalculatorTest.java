@@ -1,8 +1,8 @@
 package edu.escuelaing.arep;
 
 
-import edu.escuelaing.arsw.App.Calculator;
-import edu.escuelaing.arsw.model.Reader;
+import edu.escuelaing.arep.App.Calculator;
+import edu.escuelaing.arep.model.Reader;
 import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
